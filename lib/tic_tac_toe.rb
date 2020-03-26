@@ -84,7 +84,7 @@ end
     end
   end
   def play
-  
+
   end
 end
 game = TicTacToe.new
